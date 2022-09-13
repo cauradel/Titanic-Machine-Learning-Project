@@ -1,5 +1,5 @@
 # Titanic-Machine-Learning-Project
-According to machine learning models, would Jack have survived the Titanic regardless of the door controversy ?
+According to machine learning models, would Jack have survived the Titanic regardless of the door controversy ? This project involves Data Cleaning and use of machine learning algorithms.
 
 Introduction
 
